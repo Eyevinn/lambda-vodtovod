@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>vod2vod</id>
+    <title>VOD2VOD example</title>
+    <updated>2022-12-08T09:25:37.332Z</updated>
+    <entry>
+        <title>THE_GRAND_BUDAPEST_HOTEL_Trailer_2014</title>
+        <id>21053ee7-b289-4210-869e-43f355357332</id>
+        <link>https://lab.cdn.eyevinn.technology/THE_GRAND_BUDAPEST_HOTEL_Trailer_2014.mp4/manifest.m3u8</link>
+    </entry>
+    <entry>
+        <title>OWL_MVP_2021</title>
+        <id>98291d87-8681-4550-8969-5082cf2be001</id>
+        <link>https://lab.cdn.eyevinn.technology/OWL_MVP_2021.mp4/manifest.m3u8</link>
+    </entry>
+</feed>
