@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>vod2vod</id>
+    <title>VOD2VOD example</title>
+    <updated>2022-12-08T09:25:37.332Z</updated>
+    <entry>
+        <title>BLACK_SCREEN_TIMER_70SEC</title>
+        <id>7070630b-b514-4e66-8033-g9g6139a7284</id>
+        <link>https://lab-live.cdn.eyevinn.technology/DEMUX_001/master_demux_aac-en-fr.m3u8</link>
+    </entry>
+    <entry>
+        <title>TEST_CLIP_60SEC</title>
+        <id>20053pp7-b289-4210-869p-43f355357332</id>
+        <link>https://lab-live.cdn.eyevinn.technology/DEMUX_002/master_demux_aac-en-fr.m3u8</link>
+    </entry>
+</feed>
